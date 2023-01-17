@@ -1,4 +1,5 @@
 RICK AND MORTY APP
+https://img.ecartelera.com/noticias/51300/51380-m.jpg
 
 ____________________________________________________________
 This API is about the characters of the Rick and Morty animated series, created using the public API https://rickandmortyapi.com/documentation/. 
