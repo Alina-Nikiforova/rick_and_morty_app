@@ -4,7 +4,7 @@
 
 
 ____________________________________________________________
-This API is about the characters of the Rick and Morty animated series, created using the public API https://rickandmortyapi.com/documentation/. 
+This API is about the characters of the Rick and Morty animated series, created using the public API( you can see [here](https://rickandmortyapi.com/documentation/)). 
 # 💻The project implemented:
 * get a list of all characters;
 * randomly get information about one character;
@@ -18,7 +18,7 @@ __________________________________________________________________
 * Tomcat
 * Hibernate
 * lombok, liquibase, devtools, Maven
-* docker: pull alinanik/rick_and_morty-app:latest.
+* docker [here](https://hub.docker.com/repository/docker/alinanik/rick_and_morty-app/tags?page=1&ordering=last_updated).
 _________________________________________________________
  # 📎Instructions for starting this project:
 
