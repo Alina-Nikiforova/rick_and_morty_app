@@ -18,6 +18,7 @@ __________________________________________________________________
 * Tomcat
 * Hibernate
 * lombok, liquibase, devtools, Maven
+* Swagger [here](http://localhost:8080/swagger-ui/#/)
 * docker [here](https://hub.docker.com/repository/docker/alinanik/rick_and_morty-app/tags?page=1&ordering=last_updated).
 _________________________________________________________
  # 📎Instructions for starting this project:
